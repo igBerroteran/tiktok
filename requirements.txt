@@ -1,6 +1,0 @@
-import streamlit as st
-import pandas as pd
-from subprocess import call
-import plotly.express as px
-import TikToKApi as tiktok
-import sys
