@@ -1,0 +1,6 @@
+streamlit
+pandas
+subprocess 
+plotly
+TikToKApi
+sys
